@@ -8,3 +8,10 @@ docker compose up --build --watch
 ```
 
 Visit: `http://localhost:8080/api/`
+
+## Tech Stack
+
+- Java 25
+- Spring Boot 4.1.2
+    - Spring Web
+    - Spring Boot DevTools
