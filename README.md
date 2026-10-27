@@ -17,3 +17,9 @@ docker compose watch
 ```
 
 Visit: `http://localhost:8080/api/`
+
+## Tech Stack
+
+- Java 25
+- Spring Boot 4.1.2
+    - Spring Web
